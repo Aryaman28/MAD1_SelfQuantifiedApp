@@ -1,0 +1,31 @@
+Morden Application Development 1 Final Project
+Quantified Self App
+
+Steps to install nesscary packages - 
+
+First, we need to create a virtual environment inside our Quantified_Self_App folder by running
+	python3.8 -m venv env
+
+Second, we need to install the flask and all its necessary packages -
+
+1) flask
+	In the shell
+	use, pip install flask
+
+2) flask-login
+	In the shell
+	use, pip install flask-login
+
+3) flask-sqlalchemy
+	In the shell
+	use, pip install flask-sqlalchemy
+
+4) matplotlib
+	In the shell
+	use, pip install matlplotlib
+
+That's it you're complete!
+Run main.py and expect it to give you a URL for the website
+
+You'll be lead to the Quantified_Self_App on your browser!
+
