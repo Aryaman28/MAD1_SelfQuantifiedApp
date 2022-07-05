@@ -1,4 +1,4 @@
-Self Quantified App
+## Self Quantified App
 IIT Madras - B.Sc Data Science and Programming
 
 Course - Modern Application Development
